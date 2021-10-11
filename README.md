@@ -6,8 +6,6 @@
 
 - ⚡ Fun fact: **XD I think I've got good sense of humour!**
 
-<h1 align="center">My Skills</h1>
-
 ## Languages and Tools:
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width = '40' height = '40'/> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width = '40' height = '40'/> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width = '40' height = '40'/>
