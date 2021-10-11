@@ -30,8 +30,7 @@
 </a>
 </p>
 
-<div > &nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tanujajoshi1&show_icons=true&locale=en&layout=compact" alt="tanujajoshi1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tanujajoshi1&show_icons=true&locale=en" style="height: auto; width: auto;"/> 
+<div align="center" > &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=tanujajoshi1&show_icons=true&locale=en" style="height: auto; width: auto;"/> 
 </div>
 <div align="center"> <p> <img src="https://komarev.com/ghpvc/?username=tanujajoshi1&label=Profile%20views&color=0e75b6&style=flat" style="height: auto; width: auto;"/> </p> </div>
 
