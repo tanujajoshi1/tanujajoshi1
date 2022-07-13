@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **joshitanuja276@gmail.com**
 
-- ⚡ Fun fact: **XD I think I've got good sense of humour!**
+- ⚡ Fun fact: **XD It's raining in Sahara!**
 
 ## Languages and Tools:
 
