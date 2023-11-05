@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tanuja Joshi</h1>
-<h3 align="center">A girl trying to learn new stuff !!!</h3>
+<h3 align="center">Software Developer | Application Developer</h3>
 
 - 📫 How to reach me: **joshitanuja276@gmail.com**
 
