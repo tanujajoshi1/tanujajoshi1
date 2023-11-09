@@ -12,8 +12,8 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width = '40' height = '40'/> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width = '40' height = '40'/> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width = '40' height = '40'/>
 <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width = '40' height = '40'/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" width = '30' height = '45'/>
-<img src = "https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" width = '30' height = '45'/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="40"/> 
+<img src = "https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" width = '50' height = '45'/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width = '40' height = '40'/>
 
 <p>
